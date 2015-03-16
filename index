@@ -1,0 +1,14 @@
+<DOCTYPE html>
+<html>
+<head><title>Emily Brazel</title></head>
+<body>
+	<p>Emily Brazel course page</p>
+	<p>Modules</p>
+	<p>
+		<ul>
+			<li>Module 1<a href="https://www.msu.edu/~brazelem/module1.pdf" /a></li>
+			<li>Module 3<a href="https://www.msu.edu/~brazelem/module2.pdf" /a></li>
+		</ul>	
+	</p>
+</body>	
+</html>
