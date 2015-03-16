@@ -6,8 +6,8 @@
 	<p>Modules</p>
 	<p>
 		<ul>
-			<li>Module 1<a href="https://www.msu.edu/~brazelem/module1.pdf" /a></li>
-			<li>Module 3<a href="https://www.msu.edu/~brazelem/module2.pdf" /a></li>
+			<li><a href="https://www.msu.edu/~brazelem/module1.pdf">Module 1</a></li>
+			<li><a href="https://www.msu.edu/~brazelem/module2.pdf">Module 2</a></li>
 		</ul>	
 	</p>
 </body>	
